@@ -4,21 +4,21 @@ plugins:
 remote_theme: DB-Courses/jekyll-course-website-template
 
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: "Knowledge-based Systems"
+course_description: "Learn the basics of KNBS and deal with people who build them"
+course_semester: "Summer 23"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: "/23S" # the subpath of your site, e.g. /blog/
+url: "https://dominikb1888-knbs.github.io" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
+schoolname: "Deggendorf Institute of Technology"
+schoolurl: "https://th-deg.de"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    European Campus
+    Pfarrkirchen
+    Germany
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
 
