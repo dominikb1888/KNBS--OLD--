@@ -16,7 +16,7 @@ remote_theme: DB-Courses/jekyll-course-website-template
 
 # Site settings
 course_name: "Knowledge-based Systems"
-course_description: "This is to  Learn the basics of KNBS and deal with people who build them"
+course_description: "This is to Learn the basics of KNBS and deal with people who build them"
 course_semester: "Summer 23"
 
 baseurl: "/23S" # the subpath of your site, e.g. /blog/
