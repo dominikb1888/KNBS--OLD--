@@ -1,6 +1,6 @@
 plugins:
   - jekyll-remote-theme
-  
+
 remote_theme: DB-Courses/jekyll-course-website-template
 
 # Site settings
@@ -13,7 +13,7 @@ url: "https://dominikb1888-knbs.github.io" # the base hostname & protocol for yo
 
 schoolname: "Deggendorf Institute of Technology"
 schoolurl: "https://th-deg.de"
-twitter_username: username 
+twitter_username: dominikb1888
 
 address: |
     European Campus
