@@ -1,5 +1,17 @@
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  -  jekyll-coffeescript
+  -  jekyll-commonmark-ghpages
+  -  jekyll-gist
+  -  jekyll-github-metadata
+  -  jekyll-paginate
+  -  jekyll-relative-links
+  -  jekyll-optional-front-matter
+  -  jekyll-readme-index
+  -  jekyll-default-layout
+  -  jekyll-titles-from-headings
+  -  jekyll-remote-theme
 
 remote_theme: DB-Courses/jekyll-course-website-template
 
