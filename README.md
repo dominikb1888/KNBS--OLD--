@@ -1,27 +1,33 @@
 # Knowledge-based Systems
 
+Course Goals:
+    - Enable Specification of Software and AI Needs, Basic Implementation Skills
+    - Understand opportunities and limitations of ML and AI in Healthcare
+
 ## Syllabus
 
-1. AI and Machine Learning in Healthcare
-    - Course Goals (Enable Specification of Software and AI Needs, Basic Implementation Skills)
-    - Introduction and Setup
-    - Applications and Discussion
+0. Python Primer
+    - Numpy and Pandas
+    - Data Visualization
+    - FastAI, Pytorch
 
-2. Logic and Knowledge Representation
+1. Logic and Knowledge Representation
     - Propositional Logic
     - First Order Logic
     - Ontologies
 
-3. Planning and Implementing a simple System
+2. Machine Learning
+    - From data to patterns to inference
+    - Case Study: Recommender Systems in Healthcare
+
+3. Deep Learning    
+    - Deep Learning and Generative AI
+    - Case Study: Bio GPT
+
+4. Hands-on: Planning and Implementing a simple System
     - Create an Ontology (OWL)
     - Use Python for Inference
-    - Build simple Frontend
-
-4. Machine Learning
-    -
-
-5. AI
-
+    - Build Simple Frontend
 
 
 ## Literature
