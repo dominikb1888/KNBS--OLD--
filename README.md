@@ -20,7 +20,7 @@ Course Goals:
     - From data to patterns to inference
     - Case Study: Recommender Systems in Healthcare
 
-3. Deep Learning    
+3. Deep Learning
     - Deep Learning and Generative AI
     - Case Study: Bio GPT
 
