@@ -13,7 +13,9 @@ Course Goals:
 
 1. Logic and Knowledge Representation
     - Propositional Logic
-    - First Order Logic
+    - First Order Logic (Predicate Logic)
+    Summary: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/03-logic/01-propositional-logic.html
+    
     - Ontologies
 
 2. Machine Learning
